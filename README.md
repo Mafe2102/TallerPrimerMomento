@@ -1,4 +1,4 @@
-# Solución taller de nuevas tecnologias   
+# Solución Taller Nuevas Tecnologias      
 **Desarrollo de sofware Cesde**  
 ***
 ![perfil](https://www.claro.com.co/portal/co/noticias/imagenes/1603899956023-5-og-Historia%20del%20ciclismo.jpg)
